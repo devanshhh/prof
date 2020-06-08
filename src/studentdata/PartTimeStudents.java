@@ -3,7 +3,7 @@ package studentdata;
 
 /**
  *
- * @author Megha Patel
+ * @author Megha Patel, 2020
  */
 public class PartTimeStudents {
 
